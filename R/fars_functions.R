@@ -1,7 +1,7 @@
 
-#Name: Michelle Apunte
+#Name: Antonio Zerbinati
 
-# This function validates the existence of a file in the directory, if the file does
+#' This function validates the existence of a file in the directory, if the file does
 # not exist you will see an mistake as warning. For read the file you need the function read_csv,
 # because the file will be read with read_csv function.
 #
